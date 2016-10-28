@@ -1,1 +1,8 @@
-estilo
+.estilo 
+{font-family: 'Roboto Condensed', sans-serif;
+color:  #7571ff 
+font-size: 18px;
+font-weight: bold;
+padding-top: 20px;
+text-align: center;
+}
